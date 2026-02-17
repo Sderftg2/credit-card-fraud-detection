@@ -25,7 +25,7 @@ Database	SQLite (dev) / PostgreSQL (prod)
 Deployment	Render / Heroku / PythonAnywhere
 🧑‍💻 Local Setup
 1️⃣ Clone the Repository
-git clone https://github.com/Rahulkumar160602/credit-card-fraud-detection.git
+https://github.com/Sderftg2/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 
 2️⃣ Create Virtual Environment
